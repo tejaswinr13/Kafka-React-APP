@@ -1,0 +1,35 @@
+Personal details:
+{
+"dts":"timestamp"
+"id":"1"
+,"name":"Teja"
+,"address": {
+"street":"abc"
+,"city":"cdc"
+}
+}
+
+finance details
+{
+"id":"1"
+,"amount":"100"
+,"bank":{
+"name":"citi",
+"type":"sbac"
+}
+}
+join the two jsons and store to sql
+details
+{
+"id":"1",
+"dts":"timestamp",
+"name":"Teja",
+"address": {
+"street":"abc"
+,"city":"cdc"
+},
+,"amount":"100"
+,"bank":{
+"name":"citi",
+"type":"sbac"
+}
